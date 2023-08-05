@@ -1,0 +1,411 @@
+ .find-the-why {
+   color: #fff;
+   font-size: 15px;
+ }
+
+ .find-the-whys {
+   color: #fff;
+   font-size: 17px;
+ }
+
+ .broadband-careers {
+   font-size: 76px;
+   padding: 17px 17px 0 17px;
+   margin: 0;
+ }
+
+ .section-11-why {
+   padding: 74px 0 74px 0;
+   text-align: center;
+ }
+
+ .section-11-why-para {
+   text-align: center;
+   margin-bottom: 26px;
+   color: #fff;
+   font-size: 38px;
+ }
+
+ .find-the-whys {
+   text-align: center;
+   margin-bottom: 26px;
+   color: #fff;
+   font-size: 17px;
+ }
+
+ .jump {
+   color: #444;
+   font-weight: bold;
+   font-size: 38px;
+   padding-top: 0px;
+ }
+
+ .jump-start {
+   margin-top: 0;
+ }
+
+ .section-12 {
+   padding: 100px 33px 33px 33px;
+ }
+
+ .section-dark {
+   background: rgba(0, 0, 0, .8) url(/image/img1.jpeg);
+   background-size: cover;
+   background-blend-mode: darken;
+ }
+
+ .big-img {
+   padding: 80px 0;
+   width: 80%;
+   margin: 0 auto;
+ }
+
+ .big-img-p {
+   padding: 50px 0 0;
+   font-size: 17px;
+   color: #707070;
+ }
+
+ .bg5g {
+   background-color: rgba(250, 250, 250, 1);
+ }
+
+ .find-the {
+   line-height: 1.74;
+   font-family: Montserrat;
+
+ }
+
+ .whatis {
+   font-size: 32px;
+ }
+
+ .brodcommu {
+   font-size: 17px;
+ }
+
+
+ .sec2p {
+   padding: 80px 0;
+ }
+
+ .sec2pp {
+   padding: 0;
+ }
+
+ .sec2ppp {
+   padding: 80px 0;
+ }
+
+ .ino {
+   padding: 60px 30px;
+ }
+
+ .inof {
+   font-size: 35px;
+ }
+
+ .section-blue {
+   background-color: #00283d;
+   padding: 80px 0;
+   text-align: center;
+   font-size: 38px;
+   font-family: 'Roboto', sans-serif;
+   color: #fff;
+   font-weight: bold;
+ }
+
+ .intel {
+   font-size: 43px;
+ }
+
+ .intel2 {
+   font-size: 17px;
+ }
+
+ .g5last {
+   font-size: 30px;
+   padding-top: 60px;
+ }
+
+ .secdiif {
+   background: rgba(0, 0, 0, .88) url(/image/why93.jpeg);
+   background-blend-mode: darken;
+   max-width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .the-fin {
+   font-size: 15px;
+   margin-bottom: 26px;
+ }
+
+ .btn {
+   margin-top: 0;
+ }
+
+ .bttn-8 {
+   margin-top: 73px;
+ }
+
+ @media screen and (max-width:1201px) {
+   .g5last {
+     font-size: 30px;
+     padding-top: 108px 30px;
+   }
+ }
+
+ @media screen and (max-width:992px) {
+   .the-fin {
+     font-size: 15px;
+   }
+
+   .robo {
+     font-size: 40px;
+   }
+
+   .robotos {
+     font-size: 17px;
+     width: 73%;
+     margin: 0 auto;
+   }
+
+   .section-12 {
+     padding: 30px;
+   }
+
+   .ino {
+     padding: 23px 30px;
+   }
+
+   .broadband-careersss2 {
+     font-size: 38px;
+   }
+
+   .g5red {
+     font-size: 24px;
+     padding: 0;
+   }
+
+   .g5red2 {
+     font-size: 15px;
+   }
+
+   .g5red0 {
+     padding: 25px;
+   }
+
+   .intel {
+     font-size: 32px;
+   }
+
+   .intel2 {
+     font-size: 15px;
+   }
+
+   .g5last {
+     font-size: 30px;
+     padding-top: 152px;
+   }
+
+   .sec13 {
+     padding: 0;
+   }
+
+
+ }
+
+ @media screen and (max-width:768px) {
+   .the-fin {
+     font-size: 15px;
+   }
+
+   .secdiif {
+     padding: 0 8px;
+   }
+
+   .end3 {
+     padding: 80px 0;
+   }
+
+   .section-1 {
+     padding: 0;
+   }
+
+   .robo {
+     font-size: 30px;
+   }
+
+   .robotos {
+     width: 100%;
+   }
+
+   .whyy11 {
+     padding: 31px 0 77px 0;
+     text-align: center;
+   }
+
+   .reversee {
+     flex-direction: column-reverse;
+   }
+
+   .reversee2 {
+     flex-direction: column-reverse;
+   }
+
+   .ino {
+     padding: 50px 0px 0px;
+   }
+
+   .inof {
+     font-size: 23px;
+   }
+
+   .inof2 {
+     font-size: 18px;
+   }
+
+   .broadband-careersss h1 {
+     font-size: 38px;
+   }
+
+   .big-img {
+     padding: 80px 0;
+     width: 100%;
+   }
+
+   .section-blue-img {
+     padding: 0;
+   }
+
+   .big-img-p {
+     text-align: center;
+   }
+
+   .g5red2 {
+     font-size: 17px;
+     padding-bottom: 0;
+   }
+
+   .g5red0 {
+     padding: 50px 0 0;
+   }
+
+   .intel {
+     font-size: 24px;
+   }
+
+   .section-dark {
+     padding: 0;
+   }
+
+   .reversee3 {
+     flex-direction: column-reverse;
+   }
+
+   .g5last {
+     font-size: 30px;
+     padding-top: 45px;
+   }
+ }
+
+ @media screen and (max-width:580px) {
+   .whatis {
+     font-size: 24px;
+   }
+
+   .brodcommu {
+     font-size: 17px;
+   }
+
+   .parasf {
+     font-size: 24px;
+   }
+
+   .parasfg {
+     font-size: 15px;
+   }
+
+   .sec2p {
+     padding: 80px 0;
+   }
+
+   .section-2 {
+     padding: 15px 0 0px;
+   }
+
+   .end {
+     font-size: 24px;
+   }
+
+   .end2 {
+     font-size: 17px;
+   }
+ }
+
+ @media screen and (max-width:414px) {
+   .robotos {
+     font-size: 15px;
+   }
+
+   .sec21 {
+     padding: 30px 0;
+   }
+
+   .bl5g {
+     font-size: 23px;
+   }
+
+   .bl5g2 {
+     font-size: 17px;
+   }
+
+   .section-2 {
+     padding: 15px 0 30px;
+   }
+
+   .tec {
+     font-size: 23px;
+   }
+
+   .tec2 {
+     font-size: 18px;
+   }
+
+   .g5red0 {
+     padding: 50px 0;
+   }
+
+   .g5last {
+     font-size: 28px;
+   }
+ }
+
+ @media screen and (max-width:375px) {
+   .whyy11 {
+     padding: 80px 0px 100px;
+     text-align: center;
+   }
+
+   .parasf {
+     font-size: 30px;
+   }
+
+   .bl5g {
+     font-size: 24px;
+   }
+
+   .g5last {
+     font-size: 24px;
+   }
+
+   .bttn-8 {
+     margin-top: 0px;
+   }
+
+   .bttn-8 {
+     margin-bottom: 73px;
+   }
+ }

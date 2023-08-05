@@ -1,0 +1,93 @@
+.section-1-bg {
+  background: rgba(0, 0, 0, 0.7)url(/image/partners.jpeg);
+  background-blend-mode: darken;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.broadband-careers-about {
+  font-size: 80px;
+  line-height: 100px;
+  padding: 60px 0;
+
+}
+
+.section-12 {
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  /* padding: 155px 0; */
+}
+
+.bg-8 {
+  margin-top: 0;
+}
+
+.consi {
+  font-size: 32px !important;
+  line-height: 44px !important;
+  text-transform: capitalize !important;
+  letter-spacing: .2px !important;
+}
+
+.about-mainc {
+  font-size: 15px;
+  line-height: 24px;
+  color: #222;
+  padding: 0 50px;
+}
+
+.about-news a {
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (max-width:992px) {
+  .sec81 h2 {
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+}
+
+@media screen and (max-width:768px) {
+  section {
+    padding: 0px 50px;
+  }
+
+  .broadband-careers-about {
+    font-size: 40px;
+    line-height: 100px;
+    padding: 0px 0;
+  }
+
+  .about-mainc {
+    font-size: 15px;
+    line-height: 24px;
+    color: #222;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width:415px) {
+  .broadband-careers-about {
+    font-size: 33px;
+    line-height: 100px;
+    padding: 0px 0;
+  }
+
+  .consi {
+    font-size: 24px !important;
+    line-height: 34px !important;
+    text-transform: capitalize !important;
+    letter-spacing: .2px !important;
+  }
+}
+
+@media screen and (max-width:415px) {
+
+  .broadband-careers-about {
+    font-size: 29px;
+  }
+}

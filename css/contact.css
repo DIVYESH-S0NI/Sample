@@ -1,0 +1,94 @@
+.section-1-bg {
+  background: rgba(0, 0, 0, 0.7)url(/image/contact.webp);
+  background-blend-mode: darken;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.broadband-careers-about {
+  font-size: 80px;
+  line-height: 100px;
+  padding: 60px 0;
+}
+
+.sec-4-bag-colors {
+  background-color: #efefef;
+  padding: 60px 0;
+}
+
+.section-12 {
+  margin: auto;
+  text-align: center;
+  color: #fff;
+}
+
+.bg-8 {
+  margin-top: 0;
+}
+
+.search-for-contact {
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 26px;
+}
+
+.btnn-contact {
+  font-size: 18px;
+  padding: 6px 36px;
+  width: 220px;
+  border-radius: 12px;
+  margin-top: 0;
+}
+
+.containt {
+  align-items: center;
+  padding: 86px 65px;
+}
+
+.distance {
+  width: 92%;
+  margin: 0 auto;
+}
+
+.about-news a {
+  text-decoration: none;
+  color: #fff;
+}
+
+@media screen and (max-width:992px) {
+  .broadband-careers-about {
+    font-size: 40px;
+    line-height: 100px;
+    padding: 50px 0;
+  }
+
+  .search-for-contact {
+    font-size: 22px;
+  }
+
+  .containt {
+    padding: 75px 16px;
+  }
+}
+
+@media screen and (max-width:768px) {
+  section {
+    padding: 0;
+  }
+
+  .search-for-contact {
+    font-size: 33px;
+  }
+
+  .now8 {
+    padding: 50px 50px;
+  }
+}
+
+@media screen and (max-width:580px) {
+  .search-for-contact {
+    font-size: 23px;
+  }
+
+}

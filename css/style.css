@@ -1,0 +1,449 @@
+ /* .nav-link {
+   color: #000;
+ }
+
+ .navbar {
+   justify-content: flex-end;
+
+ }
+
+ .navbar-nav li {
+   align-items: center;
+ }
+
+ .nav-item {
+   align-self: center;
+ } */
+
+ .social ul {
+   display: flex;
+   gap: 20px;
+   margin: 0;
+   padding: 0;
+ }
+
+ .social ul li {
+   list-style: none;
+ }
+
+ header {
+   padding: 15px 0 9px;
+ }
+
+ .navbar-dark .navbar-nav .nav-link,
+ .navbar-dark .navbar-brand {
+   color: black;
+ }
+
+ .navbar-dark .navbar-nav .nav-link:focus,
+ .navbar-dark .navbar-nav .nav-link:hover {
+   color: #243c23;
+   font-weight: 400;
+ }
+
+ .navbar-dark .navbar-brand:focus,
+ .navbar-dark .navbar-brand:hover {
+   color: black;
+ }
+
+ .nav-item:hover {
+   font-size: 18px;
+   color: #243c23;
+   font-weight: 400;
+ }
+
+ .section-1 {
+   background: rgba(0, 0, 0, .7) url(/image/img1.jpeg);
+   background-blend-mode: darken;
+   max-width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .section-11 {
+   margin: auto;
+   text-align: center;
+   color: #fff;
+   padding: 155px 0;
+ }
+
+ .broadband-careers {
+   font-size: 80px;
+   padding: 17px;
+ }
+
+ .find-the {
+   font-size: 33px;
+   margin: 0 auto;
+   line-height: 38px;
+ }
+
+ .btn {
+   font-size: 18px;
+   font-style: bold;
+   padding: 10px 25px;
+   margin-top: 30px;
+ }
+
+ .jump {
+   color: #444;
+   font-weight: bold;
+   font-size: 26px;
+   padding-top: 10px;
+ }
+
+ .jump-start {
+   color: rgba(0, 0, 0, 0.5);
+   font-size: 13px;
+   line-height: 24px;
+   font-weight: 300;
+ }
+
+ .jump-start-learn {
+   display: block;
+   color: rgba(10, 10, 10, 0.8);
+   font-size: 17px;
+   line-height: 24px;
+   font-weight: 300;
+   margin-top: 10px;
+ }
+
+
+ .sc-2 {
+   margin-top: 14px;
+ }
+
+ .imgb-22,
+ .imgb-33 {
+   width: 100%;
+ }
+
+ .section-13 {
+   display: flex;
+   flex-direction: column;
+   padding: 30px 00 0 21px;
+ }
+
+ /* section3 css */
+
+ .section-3 {
+   margin-bottom: 100px;
+ }
+
+ .take-your {
+   font-weight: bold;
+   font-size: 34px;
+ }
+
+ .take-your:hover {
+   color: #140b3894;
+ }
+
+ .jump-start {
+   display: block;
+   color: rgba(10, 10, 10, 0.8);
+   margin: 35px 0 0;
+   font-size: 17px;
+   line-height: 1.6;
+   font-weight: 300;
+ }
+
+ .bagrounding-22 {
+   width: 100%;
+ }
+
+ .sec-4-bag-color {
+   background-color: #efefef;
+   padding: 60px 0;
+
+ }
+
+ .containt {
+   display: flex;
+   flex-direction: column;
+   padding: 106px 65px;
+ }
+
+ .search-for {
+   font-weight: bold;
+ }
+
+ .the-most {
+   line-height: 2;
+   font-size: 22px;
+   line-height: 30px;
+   margin-top: 27px;
+   margin-bottom: 17px;
+ }
+
+ .bg-5 {
+   background-color: #efefef;
+   padding: 80px 30px;
+ }
+
+ .prep-for {
+   font-size: 26px;
+   line-height: 1.2;
+   font-weight: 400;
+   text-transform: uppercase;
+   letter-spacing: -0.5px;
+   padding-top: 24px;
+ }
+
+ .the-brod {
+   font-size: 17px;
+   line-height: 1.6;
+   color: #767676;
+   padding-top: 9px;
+ }
+
+ .moni-1 {
+   font-size: 17px;
+   line-height: 1.6;
+   color: #767676;
+   margin: 10px 15px;
+ }
+
+ .moni-11 {
+   display: flex;
+ }
+
+ .moni {
+   padding: 1px 42px;
+ }
+
+ .tx-main {
+   padding-left: 60px;
+ }
+
+ .sec-6 {
+   font-size: 50px;
+   line-height: 1;
+   font-weight: 400;
+   text-align: center;
+   padding-top: 60px;
+ }
+
+ .sec-7 {
+   width: 80%;
+   margin: 0 auto;
+ }
+
+ .card {
+   padding: 0 15px;
+   border: none;
+ }
+
+ .card-2 {
+   margin-top: 150px;
+ }
+
+ /* section2 css */
+ .section-2 {
+   margin-top: 100px;
+ }
+
+ .card-body {
+   background-color: #efefef;
+   border-left: 4px solid #4db2ec;
+   margin-top: 100px;
+
+ }
+
+ .card-title:hover {
+   text-decoration: underline;
+ }
+
+ .card-text {
+   color: #767676;
+
+ }
+
+ .bg-8 {
+   background-color: rgb(77, 178, 236);
+   margin-top: 125px;
+ }
+
+ .sec81 h2,
+ h3 {
+   color: #fff;
+ }
+
+ .sec81 {
+   padding: 60px 91px;
+ }
+
+ .sec81 h2 {
+   font-size: 42px;
+   font-weight: 700;
+   line-height: 1.2;
+ }
+
+ .sec81 h3 {
+   font-size: 20px;
+   margin-top: 15px;
+   margin-bottom: 17px;
+   font-weight: 400;
+ }
+
+ .bttn-8 {
+   margin-top: 60px;
+   border-radius: 15px;
+ }
+
+ .bg-9 {
+   background: rgba(0, 0, 0, .8)url(/image/footer.jpg);
+   background-blend-mode: darken;
+   padding: 80px 0 0;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ .list-group-item {
+   background-color: transparent;
+   color: #fff;
+
+ }
+
+ .some-extra h2 {
+   background-color: rgb(77, 178, 236);
+   color: #fff;
+   font-size: 18px;
+   margin: 0PX;
+   padding: 2px 12px;
+   display: inline-block;
+   line-height: 22px;
+ }
+
+ .some-extra {
+   border-bottom: 3PX solid rgb(77, 178, 236);
+   display: block;
+ }
+
+ .main-list {
+   width: 80%;
+   margin: 0 auto;
+ }
+
+ .cls {
+   border-bottom: 2px solid #000;
+   width: 80%;
+   margin: 0 auto 40px auto;
+   padding: 0 0 38px;
+ }
+
+ .about {
+   font-size: 28px;
+   line-height: 1;
+   font-weight: 700;
+   margin: 0px 0 26px;
+ }
+
+ .about-dis {
+   font-size: 17px;
+   color: #fff;
+ }
+
+ .follow {
+   font-size: 28px;
+   margin: 0px 0 13px;
+ }
+
+ .about-dis-link {
+   color: #fff;
+   font-size: 18px;
+ }
+
+ .about-dis-link a {
+   color: #1aa4ce;
+   text-decoration: none;
+   font-size: 18px;
+ }
+
+ .imge2 {
+   border: 1px solid rgba(255, 255, 255, 0.03);
+   background: #ffffff08;
+   margin: 5px 10px 5px 0;
+ }
+
+ .copy-left {
+   color: #fff;
+ }
+
+ .copy-rigt {
+   color: #fff;
+   text-decoration: none;
+
+ }
+
+ .links {
+   text-align: end;
+ }
+
+ .sec99 {
+   background-color: #000;
+ }
+
+ .sec9 {
+   width: 80%;
+   margin: 0 auto;
+ }
+
+ .main-list {
+   padding: 0 20px;
+ }
+
+ .about {
+   padding-top: 0 12px;
+ }
+
+
+ .about-dis-link {
+   padding: 0 20px 0 0;
+ }
+
+ .about-page a {
+   text-decoration: none;
+   color: #fff;
+ }
+
+ .contact a {
+   text-decoration: none;
+   color: #fff;
+ }
+
+ .header {
+   padding: 0 10px;
+ }
+
+ .brodcent {
+   text-align: center;
+   padding-bottom: 15px;
+ }
+
+ .about {
+   text-align: center;
+ }
+
+
+ .fbin {
+   text-align: center;
+ }
+
+ section {
+   padding: 0 5px;
+ }
+
+ .list-group-item {
+   padding: 5px 0 8px 0;
+   font-size: 16px;
+   font-weight: bold;
+ }
+
+ .why-bd a {
+   color: #fff;
+   text-decoration: none;
+ }
